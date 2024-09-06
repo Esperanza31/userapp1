@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "BookingDetails",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2024-09-04T02:50:04.272Z"
+}
